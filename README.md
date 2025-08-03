@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Rathi</h1>
-<h3 align="center">I am a competitive programmer!| I'm a West Des Moines-based aspiring full-stack software engineer, driven by a deep passion for coding and a strong aptitude for problem-solving. My goal is to leverage my skills to build impactful software. Beyond the keyboard, you can often find me engaging with mathematical concepts, immersed in gaming, or on the volleyball court.</h3>
+<h3 align="center">I am a competitive programmer!| I'm a United States-based aspiring full-stack developer, driven by a deep passion for coding and a strong aptitude for problem-solving. My goal is to leverage my skills to build impactful software. Beyond the keyboard, you can often find me engaging with mathematical concepts, immersed in gaming, or on the volleyball court.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=streamvk&label=Profile%20views&color=0e75b6&style=flat" alt="streamvk" /> </p>
 
